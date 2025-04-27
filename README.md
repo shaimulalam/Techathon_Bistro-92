@@ -1,6 +1,8 @@
 Working Principle::
 The system consists of an Arduino UNO connected to a 16x2 LCD display and four push buttons. Here's how it works:
 
+Google Drive Video link:https://drive.google.com/file/d/14a3eWRBVgUlEqoX2-lSUQDHWrQhrZFRJ/view?usp=sharing
+
 Menu Access and Navigation:
 
 When the Menu button (Button 1) is pressed, the main menu is displayed on the LCD screen.
